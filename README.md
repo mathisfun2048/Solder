@@ -1,5 +1,18 @@
 # Solder
-Introduction to soldering and hardware electronics project
+
+## Project Purpous
+This is an introduction to soldering through a hardware project. I followed the guide online very closely as I want to master my soldering skills before I apply them to the hackpad that I designed--I would rather mess up here than there haha. 
+
+So the purpous of this project is to make a test trial for my soldering skills before I work on a more complicated project, while practicing my pcb designing skills. 
+
+## Materials
+1x PCB
+1x 3v Battery
+2x 220Ω resistors
+2x LEDs
+
+## Slack Username
+Arya
 
 # Screenshots
 
